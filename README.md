@@ -185,7 +185,7 @@ India-General-Election-2024-SQL/
 
 **Abhishek Nirmal**  
 Aspiring Data Analyst | Power BI · SQL · Python · Advanced Excel  
-📎 [GitHub](https://github.com/abhisheknirmal02-lab) | [LinkedIn](https://www.linkedin.com/in/abhisheknirmal02)
+📎 [GitHub](https://github.com/abhisheknirmal02-lab) | [LinkedIn](https://www.linkedin.com/in/abhishek-nirmal-3b6325370/)
 
 ---
 
