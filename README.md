@@ -1,0 +1,1 @@
+# India-General-Election-2024-Result-Analysis-SQL-Project-
