@@ -155,12 +155,9 @@ ORDER BY cr.constituency_name;
 
 ## 📁 File Structure
 
-```
-India-General-Election-2024-SQL/
-│
-├── India_General_Election_2024.sql   ← All 14 queries, organized by section
-└── README.md
-```
+📄 [India_General_Election_2024.sql](https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Result-Analysis-SQL-Project-/blob/main/India_General_Election_2024.sql) — All 14 queries, organized into 7 sections  
+📋 [Indian General Election 2024 Result Analysis SQL project.docx](https://github.com/abhisheknirmal02-lab/India-General-Election-2024-Result-Analysis-SQL-Project-/blob/main/Indian%20General%20Election%202024%20Result%20Analysis%20SQL%20project.docx) — Query results with screenshots  
+📝 README.md — Project documentation
 
 ---
 
